@@ -1,0 +1,23 @@
+/* styles.css */
+
+#greeting {
+ color: blue;
+ font-size: 1.5em;
+ margin-bottom: 20px;
+}
+
+.highlight {
+ background-color: yellow;
+ font-weight: bold;
+}
+
+#container {
+ margin-top: 20px;
+}
+
+#newElement {
+ margin-top: 10px;
+ padding: 10px;
+ border: 1px solid green;
+ background-color: lightgreen;
+}
